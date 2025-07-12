@@ -10,3 +10,4 @@ Model 1 : https://drive.google.com/drive/folders/1M_QHXWNNKxG2hn3suXlPfGq5sYo9J3
 
 Model 2 : https://drive.google.com/drive/folders/1QXlVPRf2uxl3lG22HTqRmC8MUQISW5RQ?usp=drive_link
 
+<img width="653" height="341" alt="mtwokroea_AI_model" src="https://github.com/user-attachments/assets/410fb898-5e3f-41b9-a9b2-550d5ebfca48" />
