@@ -141,6 +141,9 @@ print("모든 계층의 모델, 벡터라이저, 라벨 인코더 로딩 완료!
 ⚠️ 예측된 L1~L4 조합이 존재하지 않아 보정되었습니다 (유사도: 0.771)
 🔍 L5는 분류 대신 유사도 기반 추천으로 예측되었습니다 (유사도: 0.593)
 
+✅ 입력 인식됨: 'HEAT INSULATION PIPE COVER'
+c:\Users\정하민\Desktop\엠투코리아 모델\bert_cuda_env\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+
 🔎 전역 유사 품목 Top 5:
 
 ▶ 품명: PACKING / JOINTING HEAT INSULATION PIPE COVER PIPE COVERS HEAT INSULATION PIPE HEAT INSULATION ROCK WOOL THICK20MM 32AX1000MM (유사도: 77.1%)
