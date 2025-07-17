@@ -271,3 +271,11 @@ c:\Users\정하민\Desktop\엠투코리아 모델\bert_cuda_env\Lib\site-package
 - **버전**: 1.0.0
 - **작성일**: 2025년 7월 12일
 - **기반 코드**: `AI_Mode_2_edited.ipynb`
+
+
+- **버전**: 1.0.1
+- **작성일**: 2025년 7월 17일
+- **기반 코드**: `AI_Mode_2_edited.ipynb`
+수정 내용:
+   generate_structured_pcode 함수 내에서 L4 NAME 이 알파벳으로만 구성된 케이스, 숫자로만 구성된 케이스가 존재. 
+   이를 구별하여 11자리가 출력되지 않도록 함.
